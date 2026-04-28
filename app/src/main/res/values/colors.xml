@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pastel Purple -->
+    <color name="purple_200">#E6D9FF</color>
+    <color name="purple_500">#C3B1E1</color>
+    <color name="purple_700">#A084CA</color>
+
+    <!-- Pastel Mint -->
+    <color name="teal_200">#B8F2E6</color>
+    <color name="teal_700">#7BD3C7</color>
+
+    <!-- Soft Neutral -->
+    <color name="black">#4A4A4A</color>
+    <color name="white">#FFF8FB</color>
+
+    <!-- Tambahan biar lebih gemes -->
+    <color name="pink_pastel">#FFD6E8</color>
+    <color name="yellow_pastel">#FFF3B0</color>
+    <color name="blue_pastel">#BDE0FE</color>
+</resources>
